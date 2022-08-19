@@ -1,6 +1,6 @@
 # tictactoe
 
-A new Flutter project.
+A simple TicTacToe game built with flutter which can run on both Android and iOS devices.
 
 ## Getting Started
 
